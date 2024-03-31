@@ -17,15 +17,13 @@ To run Magical Arena locally, follow these steps:
 
 ## Usage
 
-To start the game, run the following command:\
-    ```npm start```
+To start the game, run the following command: ```npm start```
 
 Follow the prompts to enter the number of players and their attributes. Once the game starts, players will battle against each other until only one remains standing.
 
 ## Testing
 
-To run the unit tests for Magical Arena, execute:\
-    ```npm test```
+To run the unit tests for Magical Arena, execute: ```npm test```
 
 ## License
 
