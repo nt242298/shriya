@@ -1,0 +1,15 @@
+{
+    "name": "magical-arena",
+    "version": "1.0.0",
+    "description": "A game where each player is defined by health, strength and attack attribute - all positive integers. The player dies if his health attribute touches zero.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/game.js",
+        "test": "jest"
+    },
+    "author": "Shriya",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
